@@ -1,6 +1,6 @@
-# Solana Raydium Bundler Bots🚀
+# Solana Raydium Sniper Bots🚀
 
-There are several versions of Solana Raydium Bundler Bots.
+There are several versions of Solana Raydium Sniper Bots.
 
 
 
